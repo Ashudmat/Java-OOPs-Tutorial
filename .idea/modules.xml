@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritence/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritence/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java OOPs Tutorial.iml" filepath="$PROJECT_DIR$/.idea/Java OOPs Tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectCreation/ObjectCreation.iml" filepath="$PROJECT_DIR$/ObjectCreation/ObjectCreation.iml" />
+    </modules>
+  </component>
+</project>
